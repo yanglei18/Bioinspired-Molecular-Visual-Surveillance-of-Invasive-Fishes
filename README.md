@@ -1,10 +1,10 @@
-# Bioinspired molecular–visual surveillance of invasive fishes — Visual Perception Pipeline
+# Molecular–visual surveillance of invasive fishes — Visual Perception Pipeline
 
 ![Paper: under review](https://img.shields.io/badge/Paper-under%20review-b31b1b.svg)
 [![HuggingFace Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Data%20%26%20Weights-HuggingFace-yellow)](https://huggingface.co/datasets/yanglei18/Bioinspired-Molecular-Visual-Surveillance-of-Invasive-Fishes)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
-**Paper:** *Bioinspired molecular–visual surveillance of invasive fishes* (under review)
+**Paper:** *Molecular–visual surveillance of invasive fishes* (under review)
 
 **Authors:** Lei Li<sup>†</sup>, Yanyu Li<sup>†</sup>, Lei Yang<sup>†</sup>, Wenzhuo Gao, Boyang Qin,
 Kai Wu, Shengzhi Wang, Bo Wang, Yiyuan Zhang, Liuyong Ding, Jianshuo Qian, Shihan Kong, Jian Wang,
@@ -157,8 +157,7 @@ data — they are not part of the Yanghu feedback loop above. See each module's 
 
 ## License
 
-Released under the [MIT License](LICENSE). Copyright (c) 2026 the authors of *"Bioinspired
-molecular–visual surveillance of invasive fishes"*. The MIT license covers the **code** in this
+Released under the [MIT License](LICENSE). Copyright (c) 2026 the authors of *"Molecular–visual surveillance of invasive fishes"*. The MIT license covers the **code** in this
 repository; released **model weights** are derived from Qwen3-VL and additionally inherit the
 upstream Qwen3-VL model license. Please also follow the licenses of the upstream projects listed
 under Acknowledgements.
