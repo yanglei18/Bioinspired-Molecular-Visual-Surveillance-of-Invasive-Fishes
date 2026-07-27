@@ -168,7 +168,7 @@ If you use this code in academic work, please cite the associated paper:
 
 ```bibtex
 @article{invasive_fish_surveillance_2026,
-  title   = {Bioinspired molecular--visual surveillance of invasive fishes},
+  title   = {Molecular--visual surveillance of invasive fishes},
   author  = {Li, Lei and Li, Yanyu and Yang, Lei and Gao, Wenzhuo and Qin, Boyang and Wu, Kai and
              Wang, Shengzhi and Wang, Bo and Zhang, Yiyuan and Ding, Liuyong and Qian, Jianshuo and
              Kong, Shihan and Wang, Jian and Chen, Xingyu and Xin, Zhanhua and Lv, Chen and
